@@ -82,56 +82,6 @@ I'm a **Fresher Full Stack Developer** who enjoys building web applications and 
 
 ---
 
-## 📚 Currently Learning
-
-```text
-JavaScript
-    ↓
-React
-    ↓
-Node.js + Express
-    ↓
-REST API
-    ↓
-MySQL / PostgreSQL / MongoDB
-```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brightnguyen-nqs&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brightnguyen-nqs&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=brightnguyen-nqs&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/brightnguyen-nqs">
-  <img src="./assets/icons/github.svg" width="55" alt="GitHub">
-</a>
-
-</div>
-
----
-
 <div align="center">
 
 ### 💡 "Keep learning. Keep building. Keep improving."
