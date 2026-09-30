@@ -28,8 +28,6 @@ Building web applications with **JavaScript, React, Node.js & databases**.
 
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=brightnguyen-nqs&label=Profile%20Views&color=0e75b6&style=flat)
-
 </div>
 
 ---
@@ -84,8 +82,8 @@ I'm a **Fresher Full Stack Developer** who enjoys building web applications and 
 
 <div align="center">
 
-### 💡 "Keep learning. Keep building. Keep improving."
+###  "Keep learning. Keep building. Keep improving."
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile! ⭐
 
 </div>
