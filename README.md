@@ -45,41 +45,6 @@ I'm a **Fresher Full Stack Developer** who enjoys building web applications and 
 
 ---
 
-## 🛠️ Tech Stack
-
-### 🎨 Frontend
-
-<p>
-  <img src="./assets/icons/html5.svg" width="50" alt="HTML5">
-  <img src="./assets/icons/css3.svg" width="50" alt="CSS3">
-  <img src="./assets/icons/javascript.svg" width="50" alt="JavaScript">
-  <img src="./assets/icons/react.svg" width="50" alt="React">
-</p>
-
-### ⚙️ Backend
-
-<p>
-  <img src="./assets/icons/nodedotjs.svg" width="50" alt="Node.js">
-  <img src="./assets/icons/express.svg" width="50" alt="Express">
-</p>
-
-### 🗄️ Database
-
-<p>
-  <img src="./assets/icons/mysql.svg" width="50" alt="MySQL">
-  <img src="./assets/icons/postgresql.svg" width="50" alt="PostgreSQL">
-  <img src="./assets/icons/mongodb.svg" width="50" alt="MongoDB">
-</p>
-
-### 🔧 Tools
-
-<p>
-  <img src="./assets/icons/git.svg" width="50" alt="Git">
-  <img src="./assets/icons/github.svg" width="50" alt="GitHub">
-</p>
-
----
-
 <div align="center">
 
 ###  "Keep learning. Keep building. Keep improving."
