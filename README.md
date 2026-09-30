@@ -2,10 +2,6 @@
 
 # 👋 Hi, I'm Bright
 
-### 💻 Fresher Full Stack Developer
-
-Building web applications with **JavaScript, React, Node.js & databases**.
-
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Fresher%20Full%20Stack%20Developer&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
